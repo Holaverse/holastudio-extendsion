@@ -1,3 +1,9 @@
+Hola Studio是一个在线开发H5游戏和APP的IDE，它提供了灵活的扩展机制，本仓库是提供Hola Studio扩展文档和示例。
+
+欢迎大家分享有价值的扩展模块。
+
+--------------------------------------------
+
 * [注册自己的组件](https://github.com/drawapp8/holastudio-extendsion/wiki/%E6%B3%A8%E5%86%8C%E8%87%AA%E5%B7%B1%E7%9A%84%E7%BB%84%E4%BB%B6)
 
 * [修改缺省的窗口](https://github.com/drawapp8/holastudio-extendsion/wiki/%E4%BF%AE%E6%94%B9%E7%BC%BA%E7%9C%81%E7%9A%84%E7%AA%97%E5%8F%A3)
